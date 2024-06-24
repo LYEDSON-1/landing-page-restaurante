@@ -60,3 +60,5 @@ $(document).ready(function(){
         distance: '20%'
     });
 });
+
+import { SpeedInsights } from "@vercel/speed-insights/next"
